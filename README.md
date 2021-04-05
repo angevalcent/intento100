@@ -1,1 +1,1 @@
-[Click here to see this page](https://github.com/angevalcent/intento100.git)
+[Click here to see this page](https://angevalcent.github.io/intento100/)
